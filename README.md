@@ -6,11 +6,11 @@ Creacion de una lista de la compra donde poder añadir, modificar, eliminar prod
 
 ## Tecnologias
 
-- Visual Studio
+- Visual Studio Code
 - HTML/CSS
 - JavaScript
 - Git
-- Git Hub
+- GitHub
 
 ## Uso
 
